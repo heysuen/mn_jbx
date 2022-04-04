@@ -4,7 +4,7 @@ import { Heading, Text, Box, Image, Center } from '@chakra-ui/react';
 import jukebox from './assets/jukebox.gif';
 
 // SONG
-import track1 from './assets/heyma.mp3'
+// import track1 from './assets/heyma.mp3'
 import track2 from './assets/filaac.mp3'
 
 
