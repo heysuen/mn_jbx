@@ -5,7 +5,7 @@ import jukebox from './assets/jukebox.gif';
 
 // SONG
 import track1 from './assets/heyma.mp3'
-
+import track2 from './assets/filaac.mp3'
 
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
         </Image>
       </Center>
       <Center>
-        <audio src={track1} controls/>
+        <audio src={track2} controls/>
       </Center>
       
       
